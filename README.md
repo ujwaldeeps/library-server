@@ -1,7 +1,7 @@
 
 ## INITIALIZATION
-Step 1. Create a new schema in the database
-Step 2. Update database credientials in the *config.json* under developement key, Please find this file under config directory
+Step 1. Create a new schema in your *mysql* database <br>
+Step 2. Update database credientials in the *config.json* under developement key, Please find this file under config directory<br>
 Step 3. And finally, In the project directory, you need to run:
 
 // to install dependancies
