@@ -1,0 +1,6 @@
+{
+  "server": {
+    "BASEURL": "/api/",
+    "port": "8080"
+  }
+}
